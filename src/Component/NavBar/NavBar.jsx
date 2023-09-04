@@ -13,7 +13,7 @@ const NavBar = () => {
         <Link className="hover:text-red-400" to="/">
           Shop
         </Link>
-        <Link className="hover:text-red-400" to="/">
+        <Link className="hover:text-red-400" to="/order">
           Order
         </Link>
         <Link to="/">
